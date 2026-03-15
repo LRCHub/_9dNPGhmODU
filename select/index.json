@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "空中戦",
+  "base_artist": "Queen Bee",
+  "createdAt": "2026-03-15T01:15:15.466437Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空中戦",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_空中戦_女王蜂.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "空中戦",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_02_空中戦_女王蜂.txt"
+    }
+  ]
+}
